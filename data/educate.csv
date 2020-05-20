@@ -1,2 +1,5 @@
-,NAME,Estimate!!Total,Estimate!!Total!!Owner-occupied housing units,Estimate!!Total!!Owner-occupied housing units!!Less than high school graduate,Estimate!!Total!!Owner-occupied housing units!!High school graduate (including equivalency),Estimate!!Total!!Owner-occupied housing units!!Some college or associate's degree,Estimate!!Total!!Owner-occupied housing units!!Bachelor's degree or higher,Estimate!!Total!!Renter-occupied housing units,Estimate!!Total!!Renter-occupied housing units!!Less than high school graduate,Estimate!!Total!!Renter-occupied housing units!!High school graduate (including equivalency),Estimate!!Total!!Renter-occupied housing units!!Some college or associate's degree,Estimate!!Total!!Renter-occupied housing units!!Bachelor's degree or higher,us
-1,United States,119730128,76444810,6125523,18017123,22958513,29343651,43285318,6417332,11417261,14080823,11369902,1
+,Category,Own,Rent,Total,%Own,%Rent
+0,Less than high school graduate,6125523,6417332,12542855,48.83675207917177,51.16324792082823
+1,High school graduate (including equivalency),18017123,11417261,29434384,61.21114340289914,38.78885659710086
+2,Some college or associate's degree,22958513,14080823,37039336,61.984137620609616,38.015862379390384
+3,Bachelor's degree or higher,29343651,11369902,40713553,72.07342233187066,27.926577668129333

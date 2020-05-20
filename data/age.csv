@@ -1,2 +1,10 @@
-,NAME,Estimate!!Total,Estimate!!Total!!Owner occupied,Estimate!!Total!!Owner occupied!!Householder 15 to 24 years,Estimate!!Total!!Owner occupied!!Householder 25 to 34 years,Estimate!!Total!!Owner occupied!!Householder 35 to 44 years,Estimate!!Total!!Owner occupied!!Householder 45 to 54 years,Estimate!!Total!!Owner occupied!!Householder 55 to 59 years,Estimate!!Total!!Owner occupied!!Householder 60 to 64 years,Estimate!!Total!!Owner occupied!!Householder 65 to 74 years,Estimate!!Total!!Owner occupied!!Householder 75 to 84 years,Estimate!!Total!!Owner occupied!!Householder 85 years and over,Estimate!!Total!!Renter occupied,Estimate!!Total!!Renter occupied!!Householder 15 to 24 years,Estimate!!Total!!Renter occupied!!Householder 25 to 34 years,Estimate!!Total!!Renter occupied!!Householder 35 to 44 years,Estimate!!Total!!Renter occupied!!Householder 45 to 54 years,Estimate!!Total!!Renter occupied!!Householder 55 to 59 years,Estimate!!Total!!Renter occupied!!Householder 60 to 64 years,Estimate!!Total!!Renter occupied!!Householder 65 to 74 years,Estimate!!Total!!Renter occupied!!Householder 75 to 84 years,Estimate!!Total!!Renter occupied!!Householder 85 years and over,us
-1,United States,119730128,76444810,607410,6946746,11929967,15816417,8959219,8655435,13694250,7179740,2655626,43285318,3862720,11308267,8669582,7153044,3137380,2626313,3471817,1876192,1180003,1
+,Category,Own,Rent,Total,%Own,%Rent
+0,15 to 24 years,607410,3862720,4470130,13.588195421609662,86.41180457839035
+1,25 to 34 years,6946746,11308267,18255013,38.053908808500985,61.94609119149902
+2,35 to 44 years,11929967,8669582,20599549,57.913729082127,42.08627091787301
+3,45 to 54 years,15816417,7153044,22969461,68.85845949976797,31.141540500232022
+4,55 to 59 years,8959219,3137380,12096599,74.06394971016233,25.936050289837663
+5,60 to 64 years,8655435,2626313,11281748,76.7206908007518,23.279309199248203
+6,65 to 74 years,13694250,3471817,17166067,79.77511680456566,20.224883195434344
+7,75 to 84 years,7179740,1876192,9055932,79.28217658878181,20.717823411218195
+8,85 years and over,2655626,1180003,3835629,69.23573682439047,30.76426317560953
