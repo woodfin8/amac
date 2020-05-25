@@ -1,2 +1,12 @@
-,NAME,Estimate!!Total,Estimate!!Total!!Owner occupied,"Estimate!!Total!!Owner occupied!!Less than $5,000","Estimate!!Total!!Owner occupied!!$5,000 to $9,999","Estimate!!Total!!Owner occupied!!$10,000 to $14,999","Estimate!!Total!!Owner occupied!!$15,000 to $19,999","Estimate!!Total!!Owner occupied!!$20,000 to $24,999","Estimate!!Total!!Owner occupied!!$25,000 to $34,999","Estimate!!Total!!Owner occupied!!$35,000 to $49,999","Estimate!!Total!!Owner occupied!!$50,000 to $74,999","Estimate!!Total!!Owner occupied!!$75,000 to $99,999","Estimate!!Total!!Owner occupied!!$100,000 to $149,999","Estimate!!Total!!Owner occupied!!$150,000 or more",Estimate!!Total!!Renter occupied,"Estimate!!Total!!Renter occupied!!Less than $5,000","Estimate!!Total!!Renter occupied!!$5,000 to $9,999","Estimate!!Total!!Renter occupied!!$10,000 to $14,999","Estimate!!Total!!Renter occupied!!$15,000 to $19,999","Estimate!!Total!!Renter occupied!!$20,000 to $24,999","Estimate!!Total!!Renter occupied!!$25,000 to $34,999","Estimate!!Total!!Renter occupied!!$35,000 to $49,999","Estimate!!Total!!Renter occupied!!$50,000 to $74,999","Estimate!!Total!!Renter occupied!!$75,000 to $99,999","Estimate!!Total!!Renter occupied!!$100,000 to $149,999",us
-1,United States,119730128,76444810,1413840,1164050,2091274,2411482,2673570,5707218,8636625,13563833,10925948,14077206,13779764,43285318,2461303,2545112,3415777,3076807,2985102,5410216,6488196,7346389,4011382,3455919,1
+,Category,Own,Rent,Total,%Own,%Rent
+0,"Less than $5,000",1413840,2461303,3875143,36.48484713983458,63.515152860165415
+1,"$5,000 to $9,999",1164050,2545112,3709162,31.38309947098563,68.61690052901437
+2,"$10,000 to $14,999",2091274,3415777,5507051,37.974480352551666,62.025519647448334
+3,"$15,000 to $19,999",2411482,3076807,5488289,43.938684715764786,56.061315284235214
+4,"$20,000 to $24,999",2673570,2985102,5658672,47.24730466795036,52.75269533204964
+5,"$25,000 to $34,999",5707218,5410216,11117434,51.33574887874306,48.66425112125693
+6,"$35,000 to $49,999",8636625,6488196,15124821,57.102328682104734,42.897671317895266
+7,"$50,000 to $74,999",13563833,7346389,20910222,64.86699662968667,35.13300337031333
+8,"$75,000 to $99,999",10925948,4011382,14937330,73.1452542054035,26.85474579459649
+9,"$100,000 to $149,999",14077206,3455919,17533125,80.28920115495669,19.71079884504331
+10,"$150,000 or more",13779764,2089115,15868879,86.83514443584829,13.164855564151695
