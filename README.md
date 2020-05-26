@@ -6,7 +6,6 @@
 * [Methodology](#Methodology)
 * [Findings Summary](#Findings-Summary)
 * [Targeting by Zip Code](#Targeting-by-Zip-Code)
-* [Charts and Tables](#Charts-and-Tables)
 * [Tech](#Tech)
 
 ## Objectives
@@ -91,3 +90,10 @@ The move-in date analysis showed that households who have recently moved to are 
 
 The resulting 651 zip codes are in [this csv file](/data/mover_final.csv)
 
+## Tech
+* Python - version 3.7.3
+
+### Python Dependencies
+* Pandas - version0.25.3
+* Matplotlib - version 3.1.1
+* Requests - version 2.23.0
