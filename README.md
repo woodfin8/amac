@@ -29,4 +29,5 @@ Once a household becomes larger than one person, household size had little corre
 
 There is a clear correlation between age and home ownership rates up to 75 years of age. 
 
+![age](/images/Age.png)
 
