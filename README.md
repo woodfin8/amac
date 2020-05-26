@@ -5,7 +5,7 @@
 * [Objectives](#Objectives)
 * [Methodology](#Methodology)
 * [Findings Summary](#Findings-Summary)
-* [T by Zip Code](#Targeting-by-Zip-Code)
+* [Targeting by Zip Code](#Targeting-by-Zip-Code)
 * [Tech](#Tech)
 
 ## Objectives
@@ -22,7 +22,7 @@ Data was called via api, cleaned and transformed with pandas and charted with ma
 
 In summary, the following traits show positive correlation with home ownership: age, marital status, education-level, income and move-in date.
 
-Once a household becomes larger than one person, household size had little correlation with levels of ownership. In this data set, having children did not have an impact on home ownership. However, the census data as it's presented does not control for the age of the parents (i.e. households with young children might have low rates of home ownership becuase the partents are young). More granular data is needed to determine the impact of children on home ownership. 
+Once a household becomes larger than one person, household size had little correlation with levels of ownership. In this data set, having children did not have strong correlation with home ownership. However, the census data as it's presented does not control for the age of the parents (i.e. households with young children might have low rates of home ownership becuase the partents are young). More granular data is needed to determine the impact of children on home ownership. 
 
 ### Age
 
@@ -32,7 +32,7 @@ There is a clear correlation between age and home ownership rates up to 75 years
 
 ### Marital Status
 
-When controlling for age, married couples have much higher rates of home ownership compared to singles.'
+When controlling for age, married couples have higher rates of home ownership compared to singles.
 
 ![34married](/images/Marital_Status_15-34.png)
 
@@ -46,7 +46,7 @@ Households with a High School Degree or higher have higher rates of home ownersh
 
 ### Income
 
-A strong positive correlation between annual income and home ownership. 
+There is a strong positive correlation between annual income and home ownership. 
 
 ![income](/images/Income.png)
 
@@ -74,7 +74,7 @@ Having children present in the house did not have a big impact on home ownership
 
 ## Targeting by Zip Code
 
-With the above findings in hand, we can search for areas that have populuations of likely homebuyers. The Census data allows us to zoom in as close as the Zip Code Level
+With the above findings in hand, we can search for areas that have populuations of likely homebuyers. The Census data allows us to zoom in to the Zip Code Level.
 
 ### New Home Owner Filter
 
@@ -83,10 +83,9 @@ This filter looks for zip codes that have a high percentage of young renters (ag
 The resulting 902 zip codes are in [this csv file](/data/owner_final.csv)
 
 
-
 ### New Mover Filter
 
-The move-in date analysis showed that households who have recently moved to are more likely to be renters than owners. This filter identifies zip codes that have seen a relatively high number of households moving in. It then filters for zip codes in the top quartile of both education and income. This list can be used to find potential home buyers as they settle in to their new surroundings of as they move from temporary to permanent housing. 
+The move-in date analysis showed that households who have recently moved to are more likely to be renters than owners. This filter identifies zip codes that have seen a relatively high number of households moving in. It then filters for zip codes in the top quartile of both education and income. This list can be used to find potential home buyers as they settle in or as they move from temporary to permanent housing. 
 
 The resulting 651 zip codes are in [this csv file](/data/mover_final.csv)
 
