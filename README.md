@@ -21,5 +21,12 @@ Data was called via api, cleaned and transformed with pandas and charted with ma
 
 ## Findings Summary
 
+In summary, the following traits show positive correlation with home ownership: age, marital status, education-level, income and move-in date.
+
+Once a household becomes larger than one person, household size had little correlation with levels of ownership. In this data set, having children did not have an impact on home ownership. However, the census data as it's presented does not control for the age of the parents (i.e. households with young children might have low rates of home ownership becuase the partents are young). More granular data is needed to determine the impact of children on home ownership. 
+
+### Age
+
+There is a clear correlation between age and home ownership rates up to 75 years of age. 
 
 
