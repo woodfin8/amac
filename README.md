@@ -35,4 +35,7 @@ There is a clear correlation between age and home ownership rates up to 75 years
 
 When controlling for age, married couples have much higher rates of home ownership compared to singles.'
 
-![34married](/images/Marital Status 35-64.png)
+![34married](/images/Marital_Status_15-34.png)
+
+![64married](/images/Marital_Status_35-64.png)
+
