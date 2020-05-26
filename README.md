@@ -5,7 +5,7 @@
 * [Objectives](#Objectives)
 * [Methodology](#Methodology)
 * [Findings Summary](#Findings-Summary)
-* [Targeting by Zip Code](#Targeting-by-Zip-Code)
+* [T by Zip Code](#Targeting-by-Zip-Code)
 * [Tech](#Tech)
 
 ## Objectives
@@ -94,6 +94,6 @@ The resulting 651 zip codes are in [this csv file](/data/mover_final.csv)
 * Python - version 3.7.3
 
 ### Python Dependencies
-* Pandas - version0.25.3
+* Pandas - version 0.25.3
 * Matplotlib - version 3.1.1
 * Requests - version 2.23.0
