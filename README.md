@@ -37,7 +37,7 @@ When controlling for age, married couples have much higher rates of home ownersh
 
 ![34married](/images/Marital_Status_15-34.png)
 
-![64married](/images/Marital_Status_35-64.png)
+![64married](/images/Marital_Status_35-64.png)litt
 
 ### Education Level
 
@@ -60,3 +60,34 @@ Across all age groups, households who have moved to new homes recently had lower
 ![mid_move](/images/Move_in_Date_35-64.png)
 
 ![senior_move](/images/Move_in_Date_65_+.png)
+
+### Household Size
+
+Beyond one-person households, household size showed little to no correlation with rates of ownership. 
+
+[!size](/images/Household_Size.png)
+
+### Children
+
+Having children present in the house did not have a big impact on home ownership. In fact, households with children 6 years and under had relatively low ownership rates compared to non-child households. However, this could be due to the fact that parents of young children are also young, and as we saw above age correlates with home ownership rates. Unfortunately this census data does not break down children by parent age. 
+
+[!child](/images/Children.png)
+
+## Targeting by Zip Code
+
+With the above findings in hand, we can search for areas that have populuations of likely homebuyers. The Census data allows us to zoom in as close as the Zip Code Level
+
+### New Home Owner Filter
+
+This filter looks for zip codes that have a high percentage of young renters (ages 25-44). As seen above, these are the age groups that see the biggest jumps from renting to ownership. I narrowed these results by filtering for zip codes with in the top quartile of both  education (HS diploma or above) and income. This list can be used to find households looking to buy their first home. 
+
+The resulting 902 zip codes are in [this csv file](/data/owner_final.csv)
+
+
+
+### New Mover Filter
+
+The move-in date analysis showed that households who have recently moved to are more likely to be renters than owners. This filter identifies zip codes that have seen a relatively high number of households moving in. It then filters for zip codes in the top quartile of both education and income. This list can be used to find potential home buyers as they settle in to their new surroundings of as they move from temporary to permanent housing. 
+
+The resulting 651 zip codes are in [this csv file](/data/mover_final.csv)
+
