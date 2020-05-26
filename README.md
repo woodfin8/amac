@@ -10,7 +10,7 @@
 * [Tech](#Tech)
 
 ## Objectives
-This study attempts to identify demographic traits of US home buyers. What factors make a head of household more likely to rent vs own? Once we identify these traits, where can we find potential these home buyers?
+This study attempts to identify demographic traits of US home buyers. What factors make a head of household more likely to rent vs own? Once we identify these traits, where can we find these potential home buyers?
 
 ## Methodology
 I used the most recent [American Community Survey 5 Year Data](https://www.census.gov/data/developers/data-sets/acs-5year.html) from the US Census to collect demographic data on home owners and renters. This data set, released January 2020, uses data collected from 5 years of Census surveys (2014-2018) to estimate "social, economic, demographic, and housing characteristics of the U.S. population."
@@ -31,3 +31,8 @@ There is a clear correlation between age and home ownership rates up to 75 years
 
 ![age](/images/Age.png)
 
+### Marital Status
+
+When controlling for age, married couples have much higher rates of home ownership compared to singles.'
+
+![34married](/images/Marital Status 35-64.png)
