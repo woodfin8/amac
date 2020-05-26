@@ -39,3 +39,24 @@ When controlling for age, married couples have much higher rates of home ownersh
 
 ![64married](/images/Marital_Status_35-64.png)
 
+### Education Level
+
+Households with a High School Degree or higher have higher rates of home ownership.
+
+![education](/images/Education.png)
+
+### Income
+
+A strong positive correlation between annual income and home ownership. 
+
+![income](/images/Income.png)
+
+### Move-In Date
+
+Across all age groups, households who have moved to new homes recently had lower rates of home ownerships vs their peers. 
+
+![young_move](/images/Move_in_Date_15-34.png)
+
+![mid_move](/images/Move_in_Date_35-64.png)
+
+![senior_move](/images/Move_in_Date_65_+.png)
